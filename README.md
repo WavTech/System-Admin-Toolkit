@@ -119,4 +119,4 @@ Start-Process -FilePath "C:\Program Files\OneDrive\OneDrive.exe"
 
 🚀 **This toolkit is always growing! Contributions & suggestions are welcome!**
 
-📫 **Contact:** [Your GitHub or LinkedIn]
+📫 **Contact:** cameron.vester@tech901.org
